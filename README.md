@@ -54,7 +54,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Screenshot 2024-03-12 102744](https://github.com/DHOESH123/simplewebserver/assets/150319589/11eb32cb-1965-4c18-a81f-4b83525c4bc6)
+![Screenshot 2024-03-21 223117](https://github.com/DHOESH123/simplewebserver/assets/150319589/c9080fc5-09e5-4411-b606-264906677f32)
+
 
 
 
